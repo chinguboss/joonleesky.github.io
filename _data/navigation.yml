@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "About me"
+    url: /portfolio/
   - title: "Archive"
     url: /archive/
   - title: "Tag"
